@@ -1,0 +1,272 @@
+[
+   {
+      "name": "La Colombe Coffee Roasters",
+      "category": "Artisanal Coffee",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "id": 2001,
+      "isFeatured": true,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -75.163789,
+         "latitude": 39.952335
+      },
+      "description": "Known for its innovative Draft Latte and unique brewing methods.",
+      "imageName": "lacolombe"
+   },
+   {
+      "name": "Intelligentsia Coffee",
+      "category": "Artisanal Coffee",
+      "city": "Chicago",
+      "state": "Illinois",
+      "id": 2002,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -87.623177,
+         "latitude": 41.881832
+      },
+      "description": "Specializes in handcrafted methods and specific coffee profiles.",
+      "imageName": "intelligentsia"
+   },
+   {
+      "name": "Blue Bottle Coffee",
+      "category": "Artisanal Coffee",
+      "city": "Oakland",
+      "state": "California",
+      "id": 2003,
+      "isFeatured": true,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -122.271114,
+         "latitude": 37.804364
+      },
+      "description": "Pioneers in slow and made-to-order coffee preparation.",
+      "imageName": "bluebottle"
+   },
+   {
+      "name": "Stumptown Coffee Roasters",
+      "category": "Artisanal Coffee",
+      "city": "Portland",
+      "state": "Oregon",
+      "id": 2004,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -122.676483,
+         "latitude": 45.523064
+      },
+      "description": "Renowned for its blends and high-quality roasting.",
+      "imageName": "stumptown"
+   },
+   {
+      "name": "Heart Coffee Roasters",
+      "category": "Artisanal Coffee",
+      "city": "Portland",
+      "state": "Oregon",
+      "id": 2005,
+      "isFeatured": false,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -122.676483,
+         "latitude": 45.523064
+      },
+      "description": "Focuses on brewing methods that enhance bright flavors.",
+      "imageName": "heartcoffee"
+   },
+   {
+      "name": "44 North Coffee",
+      "category": "Artisanal Coffee",
+      "city": "Deer Isle",
+      "state": "Maine",
+      "id": 2006,
+      "isFeatured": false,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -68.674264,
+         "latitude": 44.223801
+      },
+      "description": "Utilizes sustainable coffee and manual processes.",
+      "imageName": "44north"
+   },
+   {
+      "name": "Daily Rise Coffee",
+      "category": "Signature Coffee",
+      "city": "Ogden",
+      "state": "Utah",
+      "id": 2007,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -111.971052,
+         "latitude": 41.223
+      },
+      "description": "Offers creative drinks like hibiscus cold brews.",
+      "imageName": "dailyrise"
+   },
+   {
+      "name": "FINNS Barista Bar",
+      "category": "Signature Coffee",
+      "city": "Panama City Beach",
+      "state": "Florida",
+      "id": 2008,
+      "isFeatured": false,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -85.840622,
+         "latitude": 30.176591
+      },
+      "description": "Known for organic homemade syrups and tropical drinks.",
+      "imageName": "finns"
+   },
+   {
+      "name": "Omaha Bicycle Co.",
+      "category": "Signature Coffee",
+      "city": "Omaha",
+      "state": "Nebraska",
+      "id": 2009,
+      "isFeatured": false,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -95.934502,
+         "latitude": 41.256537
+      },
+      "description": "Combines coffee with a community and sports approach.",
+      "imageName": "omahabicycle"
+   },
+   {
+      "name": "Pied Cow Coffeehouse",
+      "category": "Signature Coffee",
+      "city": "Portland",
+      "state": "Oregon",
+      "id": 2010,
+      "isFeatured": false,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -122.676483,
+         "latitude": 45.523064
+      },
+      "description": "Serves unique drinks with desserts and fondue.",
+      "imageName": "piedcow"
+   },
+   {
+      "name": "Four Barrel Coffee",
+      "category": "Signature Coffee",
+      "city": "San Francisco",
+      "state": "California",
+      "id": 2011,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -122.419416,
+         "latitude": 37.774929
+      },
+      "description": "Cozy ambiance with innovative drinks.",
+      "imageName": "fourbarrel"
+   },
+   {
+      "name": "ReAnimator Coffee",
+      "category": "Signature Coffee",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "id": 2012,
+      "isFeatured": false,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -75.163789,
+         "latitude": 39.952335
+      },
+      "description": "Creative beverages with locally sustainable roasts.",
+      "imageName": "reanimator"
+   },
+   {
+      "name": "Black Bear Coffee House",
+      "category": "Specialty Coffee",
+      "city": "McKinley Park",
+      "state": "Alaska",
+      "id": 2013,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -149.270556,
+         "latitude": 63.733889
+      },
+      "description": "Rustic atmosphere and a menu combining breakfast with local roasted coffee.",
+      "imageName": "blackbear"
+   },
+   {
+      "name": "G&B Coffee",
+      "category": "Specialty Coffee",
+      "city": "Los Angeles",
+      "state": "California",
+      "id": 2014,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -118.243683,
+         "latitude": 34.052235
+      },
+      "description": "Open bar for tastings and interactive experiences.",
+      "imageName": "gbcoffee"
+   },
+   {
+      "name": "Everyman Espresso",
+      "category": "Specialty Coffee",
+      "city": "New York",
+      "state": "New York",
+      "id": 2015,
+      "isFeatured": true,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -74.006015,
+         "latitude": 40.712776
+      },
+      "description": "Excellence in service and coffee.",
+      "imageName": "everyman"
+   },
+   {
+      "name": "George Howell Coffee",
+      "category": "Specialty Coffee",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "id": 2016,
+      "isFeatured": false,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -71.05888,
+         "latitude": 42.360082
+      },
+      "description": "Focuses on educational and cultural coffee narratives.",
+      "imageName": "georgehowell"
+   },
+   {
+      "name": "Café Integral",
+      "category": "Specialty Coffee",
+      "city": "New York",
+      "state": "New York",
+      "id": 2017,
+      "isFeatured": false,
+      "isFavorite": false,
+      "coordinates": {
+         "longitude": -74.006015,
+         "latitude": 40.712776
+      },
+      "description": "Specializes in Nicaraguan coffees with cultural narratives.",
+      "imageName": "cafeintegral"
+   },
+   {
+      "name": "FINNS Island Style Grub",
+      "category": "Specialty Coffee",
+      "city": "Panama City Beach",
+      "state": "Florida",
+      "id": 2018,
+      "isFeatured": false,
+      "isFavorite": true,
+      "coordinates": {
+         "longitude": -85.840622,
+         "latitude": 30.176591
+      },
+      "description": "Fusion of coffee and tropical lifestyle.",
+      "imageName": "finnsisland"
+   }
+]
