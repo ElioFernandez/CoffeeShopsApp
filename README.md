@@ -11,6 +11,4 @@ Check it out below.
 
 <img src="https://github.com/user-attachments/assets/6c010525-6fcb-4382-a746-0c384775e546" alt="Simulator Screenshot 2" width="300">
 
-<img src="https://github.com/user-attachments/assets/dd551ea7-195c-4908-a8e1-adbb0a6e7118" alt="Simulator Screenshot 3" width="300">
-
 https://github.com/user-attachments/assets/4118fa96-f8b0-4bab-b748-a0e0a08db03a
