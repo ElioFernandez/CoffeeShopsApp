@@ -25,7 +25,7 @@ struct CategoryHome: View {
                     .listRowInsets(EdgeInsets())
             }
             .listStyle(.inset)
-            .navigationTitle("Featured")
+            .navigationTitle("Top Cafés")
         } detail: {
             Text("Select a Coffee Shop")
         }
