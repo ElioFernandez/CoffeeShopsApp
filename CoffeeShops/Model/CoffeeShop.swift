@@ -19,7 +19,7 @@ struct CoffeeShop: Hashable, Codable, Identifiable {
     var isFeatured: Bool
     
     var category: Category
-    enum Category: String, CaseIterable, Codable {
+    enum Category: String, CaseIterable, Codable, Hashable {
         case artisanal = "Artisanal Coffee"
         case signature = "Signature Coffee"
         case specialty = "Specialty Coffee"
@@ -29,6 +29,10 @@ struct CoffeeShop: Hashable, Codable, Identifiable {
     
     var image: Image {
         Image(imageName)
+    }
+    
+    var featureImage: Image? {
+        isFeatured ? Image(imageName + "_feature") : nil
     }
     
     private var coordinates: Coordinates
@@ -43,7 +47,5 @@ struct CoffeeShop: Hashable, Codable, Identifiable {
         var latitude: Double
         var longitude: Double
     }
-    
-    
 }
 

@@ -43,7 +43,7 @@ struct CoffeeShopDetail: View {
                 .foregroundStyle(.secondary)
                 
                 Divider()
-                Text("Acerca \(coffeeShop.name)")
+                Text("About \(coffeeShop.name)")
                     .font(.title2)
                 Text(coffeeShop.description)
                     

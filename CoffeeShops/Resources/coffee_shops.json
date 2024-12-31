@@ -5,13 +5,13 @@
       "city": "Philadelphia",
       "state": "Pennsylvania",
       "id": 2001,
-      "isFeatured": true,
+      "isFeatured": false,
       "isFavorite": true,
       "coordinates": {
          "longitude": -75.163789,
          "latitude": 39.952335
       },
-      "description": "Known for its innovative Draft Latte and unique brewing methods.",
+      "description": "La Colombe Coffee Roasters, founded in 1994 in Philadelphia, is renowned for its commitment to high-quality coffee and innovative products. Its signature creation, the Draft Latte, combines cold-pressed espresso with creamy, textured milk, and was later introduced in cans featuring a unique nitrous oxide valve for a frothy experience.La Colombe offers single-origin coffees, blends, and specialty drinks like Different Drum, a coffee-infused rum. Acquired by Chobani in 2023, the brand has expanded its ready-to-drink market presence. With cafés in major U.S. cities and products available online, La Colombe brings exceptional coffee to homes and retail spaces alike",
       "imageName": "lacolombe"
    },
    {
@@ -20,13 +20,13 @@
       "city": "Chicago",
       "state": "Illinois",
       "id": 2002,
-      "isFeatured": true,
+      "isFeatured": false,
       "isFavorite": false,
       "coordinates": {
          "longitude": -87.623177,
          "latitude": 41.881832
       },
-      "description": "Specializes in handcrafted methods and specific coffee profiles.",
+      "description": "Intelligentsia Coffee, founded in 1995 in Chicago, is a pioneer of the third wave coffee movement, focusing on direct trade and artisanal quality. It sources premium beans from regions like Central and South America and East Africa, ensuring ethical production. Acquired by Peet's Coffee in 2015, the brand maintains its independence and has expanded to cities like Los Angeles, New York, and Boston. Known for its dedication to sustainability and innovation, Intelligentsia continues to set industry standards with its cafes and online offerings",
       "imageName": "intelligentsia"
    },
    {
@@ -41,7 +41,7 @@
          "longitude": -122.271114,
          "latitude": 37.804364
       },
-      "description": "Pioneers in slow and made-to-order coffee preparation.",
+      "description": "Founded in 2002, Blue Bottle Coffee is a pioneer of the third wave coffee movement, emphasizing freshness and sustainability. Known for its meticulous brewing methods, it offers single-origin beans, blends, and crafted beverages through its global cafes and online store.",
       "imageName": "bluebottle"
    },
    {
@@ -50,13 +50,13 @@
       "city": "Portland",
       "state": "Oregon",
       "id": 2004,
-      "isFeatured": true,
+      "isFeatured": false,
       "isFavorite": false,
       "coordinates": {
          "longitude": -122.676483,
          "latitude": 45.523064
       },
-      "description": "Renowned for its blends and high-quality roasting.",
+      "description": "Established in 1999 in Portland, Oregon, Stumptown is a leader in direct trade and high-quality coffee sourcing. It has played a major role in the third wave coffee movement and operates popular cafes across the U.S.",
       "imageName": "stumptown"
    },
    {
@@ -71,7 +71,7 @@
          "longitude": -122.676483,
          "latitude": 45.523064
       },
-      "description": "Focuses on brewing methods that enhance bright flavors.",
+      "description": "Based in Portland since 2009, Heart Coffee Roasters specializes in light roasting to highlight the unique profiles of each bean. It’s well-regarded for its precise sourcing and dedication to quality.",
       "imageName": "heartcoffee"
    },
    {
@@ -86,7 +86,7 @@
          "longitude": -68.674264,
          "latitude": 44.223801
       },
-      "description": "Utilizes sustainable coffee and manual processes.",
+      "description": "A Maine-based roaster dedicated to organic and fair-trade beans, 44 North Coffee offers sustainably sourced blends and single origins. It is committed to supporting ethical practices and small coffee-growing communities.",
       "imageName": "44north"
    },
    {
@@ -101,7 +101,7 @@
          "longitude": -111.971052,
          "latitude": 41.223
       },
-      "description": "Offers creative drinks like hibiscus cold brews.",
+      "description": "An independent Utah coffee shop and roaster, Daily Rise Coffee is known for its specialty drinks and strong connection to the local community. It prioritizes fresh ingredients and customer engagement.",
       "imageName": "dailyrise"
    },
    {
@@ -116,7 +116,7 @@
          "longitude": -85.840622,
          "latitude": 30.176591
       },
-      "description": "Known for organic homemade syrups and tropical drinks.",
+      "description": "Known for its laid-back vibe, FINNS Barista Bar combines high-quality coffee and a welcoming atmosphere, serving as a neighborhood hub for excellent brews and community connections.",
       "imageName": "finns"
    },
    {
@@ -131,7 +131,7 @@
          "longitude": -95.934502,
          "latitude": 41.256537
       },
-      "description": "Combines coffee with a community and sports approach.",
+      "description": "A creative fusion of a bike shop and coffeehouse, Omaha Bicycle Co. offers specialty drinks alongside bicycle sales and repairs, providing a unique experience for cycling and coffee enthusiasts alike.",
       "imageName": "omahabicycle"
    },
    {
@@ -140,13 +140,13 @@
       "city": "Portland",
       "state": "Oregon",
       "id": 2010,
-      "isFeatured": false,
+      "isFeatured": true,
       "isFavorite": false,
       "coordinates": {
          "longitude": -122.676483,
          "latitude": 45.523064
       },
-      "description": "Serves unique drinks with desserts and fondue.",
+      "description": "Located in Portland, Pied Cow Coffeehouse is famous for its quirky ambiance and eclectic offerings, combining a warm atmosphere with exceptional coffee and unique beverages.",
       "imageName": "piedcow"
    },
    {
@@ -155,13 +155,13 @@
       "city": "San Francisco",
       "state": "California",
       "id": 2011,
-      "isFeatured": true,
+      "isFeatured": false,
       "isFavorite": false,
       "coordinates": {
          "longitude": -122.419416,
          "latitude": 37.774929
       },
-      "description": "Cozy ambiance with innovative drinks.",
+      "description": "Founded in San Francisco, Four Barrel Coffee focuses on artisanal roasting and direct sourcing relationships with growers. Known for its minimalist cafes, it prioritizes high-quality beans and brewing techniques.",
       "imageName": "fourbarrel"
    },
    {
@@ -176,7 +176,7 @@
          "longitude": -75.163789,
          "latitude": 39.952335
       },
-      "description": "Creative beverages with locally sustainable roasts.",
+      "description": " Philadelphia roaster with a strong focus on sustainability and transparency, ReAnimator Coffee is known for its carefully sourced beans and community-focused cafes.",
       "imageName": "reanimator"
    },
    {
@@ -191,7 +191,7 @@
          "longitude": -149.270556,
          "latitude": 63.733889
       },
-      "description": "Rustic atmosphere and a menu combining breakfast with local roasted coffee.",
+      "description": "A cozy and community-oriented spot, Black Bear Coffee House offers locally roasted coffee and handcrafted drinks, becoming a favorite for its warm and inviting atmosphere.",
       "imageName": "blackbear"
    },
    {
@@ -200,13 +200,13 @@
       "city": "Los Angeles",
       "state": "California",
       "id": 2014,
-      "isFeatured": true,
+      "isFeatured": false,
       "isFavorite": false,
       "coordinates": {
          "longitude": -118.243683,
          "latitude": 34.052235
       },
-      "description": "Open bar for tastings and interactive experiences.",
+      "description": "An acclaimed Los Angeles coffee bar known for its innovative menu and high-quality brewing, G&B Coffee consistently delivers excellent coffee in a vibrant and modern setting.",
       "imageName": "gbcoffee"
    },
    {
@@ -215,13 +215,13 @@
       "city": "New York",
       "state": "New York",
       "id": 2015,
-      "isFeatured": true,
+      "isFeatured": false,
       "isFavorite": false,
       "coordinates": {
          "longitude": -74.006015,
          "latitude": 40.712776
       },
-      "description": "Excellence in service and coffee.",
+      "description": "Based in New York City, Everyman Espresso is renowned for its dedication to coffee craft and customer experience, focusing on transparency and high-quality brewing methods.",
       "imageName": "everyman"
    },
    {
@@ -236,7 +236,7 @@
          "longitude": -71.05888,
          "latitude": 42.360082
       },
-      "description": "Focuses on educational and cultural coffee narratives.",
+      "description": "Founded by coffee pioneer George Howell, this Boston-based company emphasizes single-origin excellence, direct trade, and education about coffee’s origins and flavors.",
       "imageName": "georgehowell"
    },
    {
@@ -251,7 +251,7 @@
          "longitude": -74.006015,
          "latitude": 40.712776
       },
-      "description": "Specializes in Nicaraguan coffees with cultural narratives.",
+      "description": "Specializing in Nicaraguan coffee, Café Integral highlights single-origin beans and promotes the country’s coffee culture. Its cafes offer meticulously crafted drinks in a refined setting.",
       "imageName": "cafeintegral"
    },
    {
@@ -260,13 +260,13 @@
       "city": "Panama City Beach",
       "state": "Florida",
       "id": 2018,
-      "isFeatured": false,
+      "isFeatured": true,
       "isFavorite": true,
       "coordinates": {
          "longitude": -85.840622,
          "latitude": 30.176591
       },
-      "description": "Fusion of coffee and tropical lifestyle.",
+      "description": "Known for its casual beach vibe, FINNS Island Style Grub combines fresh ingredients with tropical flavors, making it a go-to spot for both locals and visitors seeking great coffee and food.",
       "imageName": "finnsisland"
    }
 ]
