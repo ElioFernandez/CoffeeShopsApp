@@ -7,8 +7,8 @@ Support by:
 
 Check it out below.
 
-<img src="https://github.com/user-attachments/assets/9c160fca-8a88-461b-9c47-53cdb7cbf85d" alt="Simulator Screenshot" width="300">
+<img src="https://github.com/user-attachments/assets/cbda99ea-c88f-4be0-a1fa-d441fb81b003" alt="Simulator Screenshot" width="300">
 
-<img src="https://github.com/user-attachments/assets/6c010525-6fcb-4382-a746-0c384775e546" alt="Simulator Screenshot 2" width="300">
+<img src="https://github.com/user-attachments/assets/529203d1-d30c-4a21-85fa-75f16e0ccb61" alt="Simulator Screenshot 2" width="300">
 
-https://github.com/user-attachments/assets/4118fa96-f8b0-4bab-b748-a0e0a08db03a
+https://github.com/user-attachments/assets/e016af6a-107d-47a9-9faa-763f281ceaee
