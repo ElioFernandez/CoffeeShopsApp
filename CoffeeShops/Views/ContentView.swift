@@ -8,10 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var selection: Tab = .featured
+    @State private var selection: Tab = .top
     
     enum Tab {
-        case featured
+        case top
         case list
     }
     
@@ -19,9 +19,9 @@ struct ContentView: View {
         TabView(selection: $selection) {
             CategoryHome()
                 .tabItem {
-                    Label("Featured", systemImage: "rosette")
+                    Label("Top Cafés", systemImage: "rosette")
                 }
-                .tag(Tab.featured)
+                .tag(Tab.top)
             
             CoffeeShopList()
                 .tabItem {
