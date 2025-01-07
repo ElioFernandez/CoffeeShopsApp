@@ -1,5 +1,5 @@
 # Coffee Shops App
-This project explore the integration of MapKit and Core Location with SwiftUI. It is a small app that showcases places where you can enjoy coffee. It uses MapKit to display the locations of coffee shops on a map. The data comes from a local JSON file, and the photos were generated using artificial intelligence (AI). It is primarily developed with SwiftUI, integrating UIKit for specific functionalities
+This project explore the integration of MapKit and Core Location with SwiftUI. It is a small app that showcases places where you can enjoy coffee. It uses MapKit to display the locations of coffee shops on a map. The data comes from a local JSON file, and the photos were generated using AI. It is primarily developed with SwiftUI, integrating UIKit for specific functionalities
 
 Support by:
 
